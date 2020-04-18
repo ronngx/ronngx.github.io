@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-08T08:13:09.271Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>ronngx</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20200308 搞定斐讯n1 openwrt clash有感</title>
+    <link href="http://yoursite.com/2020/03/08/20200308-%E6%90%9E%E5%AE%9A%E6%96%90%E8%AE%AFn1-openwrt-clash%E6%9C%89%E6%84%9F/"/>
+    <id>http://yoursite.com/2020/03/08/20200308-%E6%90%9E%E5%AE%9A%E6%96%90%E8%AE%AFn1-openwrt-clash%E6%9C%89%E6%84%9F/</id>
+    <published>2020-03-08T07:55:38.000Z</published>
+    <updated>2020-03-08T08:13:09.271Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sun Mar 08 2020 16:13:18 GMT+0800 (中国标准时间) --><p>遇到问题，首先要想办法解决问题，而不是想着换一套解决方案重头再来。</p><p>我的人生经历中，半途而废，浅尝辄止的项目太多了。小树苗还没结果，甚至还没长大，经常就被砍掉重栽了。</p><p>其实也不是第一次认识到自己意志品质的缺陷，但是一直也没什么进步。</p><p>生活做加法还是比做减法好，比如写博客- v -。</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sun Mar 08 2020 16:13:18 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;遇到问题，首先要想办法解决问题，而不是想着换一套解决方案重头再来。&lt;/p&gt;&lt;p&gt;我的人生经历中，半途而废，浅尝辄止的项目太多了。小树苗还没结果，甚至还
+      
+    
+    </summary>
+    
+    
+    
+      <category term="折腾 生活 路由器" scheme="http://yoursite.com/tags/%E6%8A%98%E8%85%BE-%E7%94%9F%E6%B4%BB-%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>md基本语法</title>
+    <link href="http://yoursite.com/2020/02/21/md%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
+    <id>http://yoursite.com/2020/02/21/md%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</id>
+    <published>2020-02-21T08:46:29.000Z</published>
+    <updated>2020-02-21T09:38:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat Feb 29 2020 15:38:00 GMT+0800 (中国标准时间) --><h1 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h1><p><code>#</code>、<code>##</code>、<code>###</code>+标题</p><h1 id="二、字体"><a href="#二、字体" class="headerlink" title="二、字体"></a>二、字体</h1><ol><li>加粗<br>要加粗的文字左右分别用两个<code>*</code>号包起来</li><li>斜体<br>要倾斜的文字左右分别用一个<code>*</code>号包起来</li><li>斜体加粗<br>要倾斜和加粗的文字左右分别用三个<code>*</code>号包起来</li><li>删除线<br>要加删除线的文字左右分别用两个<code>~~</code>号包起来</li></ol><h1 id="三、引用"><a href="#三、引用" class="headerlink" title="三、引用"></a>三、引用</h1><p>在引用的文字前加<code>&gt;</code>即可。</p><h1 id="四、分割线"><a href="#四、分割线" class="headerlink" title="四、分割线"></a>四、分割线</h1><p>三个或者三个以上的<code>-</code>或者<code>*</code>都可以。</p><h1 id="五、图片"><a href="#五、图片" class="headerlink" title="五、图片"></a>五、图片</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">![图片alt](图片地址 &#39;&#39;图片title&#39;&#39;)</span><br><span class="line"></span><br><span class="line">图片alt就是显示在图片下面的文字，相当于对图片内容的解释。</span><br><span class="line">图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加</span><br></pre></td></tr></table></figure><h1 id="六、超链接"><a href="#六、超链接" class="headerlink" title="六、超链接"></a>六、超链接</h1><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">[超链接名](超链接地址 &quot;超链接title&quot;)</span><br><span class="line">title可加可不加</span><br></pre></td></tr></table></figure><h1 id="七、列表"><a href="#七、列表" class="headerlink" title="七、列表"></a>七、列表</h1><ol><li>无序列表<br>无序列表用<code>- + *</code>任何一种都可以</li><li>有序列表<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">1. 列表内容</span><br><span class="line">2. 列表内容</span><br><span class="line">3. 列表内容</span><br><span class="line">注意：序号跟内容之间要有空格</span><br></pre></td></tr></table></figure></li></ol><h1 id="八、代码"><a href="#八、代码" class="headerlink" title="八、代码"></a>八、代码</h1><p>单行代码：代码之间分别用一个反引号包起来<br>代码块：代码之间分别用三个反引号包起来</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Feb 29 2020 15:38:00 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;一、标题&quot;&gt;&lt;a href=&quot;#一、标题&quot; class=&quot;headerlink&quot; title=&quot;一、标题&quot;&gt;&lt;/a&gt;一、标题&lt;/h1&gt;&lt;p&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo写blog方法</title>
+    <link href="http://yoursite.com/2020/02/21/hexo%E5%86%99blog%E6%96%B9%E6%B3%95/"/>
+    <id>http://yoursite.com/2020/02/21/hexo%E5%86%99blog%E6%96%B9%E6%B3%95/</id>
+    <published>2020-02-21T08:32:31.000Z</published>
+    <updated>2020-02-21T09:03:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat Feb 29 2020 15:38:00 GMT+0800 (中国标准时间) --><h1 id="1-新建blog"><a href="#1-新建blog" class="headerlink" title="1.新建blog"></a>1.新建blog</h1><p><code>hexo new “blog标题”</code></p><h1 id="2-生成静态文件"><a href="#2-生成静态文件" class="headerlink" title="2.生成静态文件"></a>2.生成静态文件</h1><p><code>hexo generate</code></p><h1 id="3-本地运行hexo服务器"><a href="#3-本地运行hexo服务器" class="headerlink" title="3.本地运行hexo服务器"></a>3.本地运行hexo服务器</h1><p><code>hexo server</code></p><h1 id="4-发布到remote"><a href="#4-发布到remote" class="headerlink" title="4.发布到remote"></a>4.发布到remote</h1><p><code>hexo deploy</code></p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Feb 29 2020 15:38:00 GMT+0800 (中国标准时间) --&gt;&lt;h1 id=&quot;1-新建blog&quot;&gt;&lt;a href=&quot;#1-新建blog&quot; class=&quot;headerlink&quot; title=&quot;1.新建blog&quot;&gt;&lt;/a&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>儿子出生啦</title>
+    <link href="http://yoursite.com/2020/02/14/%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%E5%95%A6/"/>
+    <id>http://yoursite.com/2020/02/14/%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%E5%95%A6/</id>
+    <published>2020-02-14T07:09:31.000Z</published>
+    <updated>2020-02-25T07:00:21.826Z</updated>
+    
+    <content type="html"><![CDATA[<!-- build time:Sat Feb 29 2020 15:38:00 GMT+0800 (中国标准时间) --><p><img src="/2020/02/14/%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%E5%95%A6/1.jpg" alt="初相见" title="初相见"><br><img src="/2020/02/14/%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%E5%95%A6/2.jpg" alt="睡觉觉" title="睡觉觉"></p><hr><p>2020.02.25<br>儿子取名“侍尹恒”，<code>爸爸姓+妈妈姓+“恒”</code>，希望你以后有恒心，有毅力！</p><!-- rebuild by neat -->]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;!-- build time:Sat Feb 29 2020 15:38:00 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;&lt;img src=&quot;/2020/02/14/%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%E5%95%A6/1.jpg&quot; 
+      
+    
+    </summary>
+    
+    
+    
+      <category term="生活" scheme="http://yoursite.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+</feed>
