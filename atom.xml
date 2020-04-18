@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Ronngx&#39;Blog</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-08T08:13:09.271Z</updated>
+  <updated>2020-04-18T11:20:46.533Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>20200308 搞定斐讯n1 openwrt clash有感</title>
-    <link href="http://yoursite.com/2020/03/08/20200308-%E6%90%9E%E5%AE%9A%E6%96%90%E8%AE%AFn1-openwrt-clash%E6%9C%89%E6%84%9F/"/>
-    <id>http://yoursite.com/2020/03/08/20200308-%E6%90%9E%E5%AE%9A%E6%96%90%E8%AE%AFn1-openwrt-clash%E6%9C%89%E6%84%9F/</id>
+    <title>搞定斐讯n1 openwrt clash有感</title>
+    <link href="http://yoursite.com/2020/03/08/%E6%90%9E%E5%AE%9A%E6%96%90%E8%AE%AFn1-openwrt-clash%E6%9C%89%E6%84%9F/"/>
+    <id>http://yoursite.com/2020/03/08/%E6%90%9E%E5%AE%9A%E6%96%90%E8%AE%AFn1-openwrt-clash%E6%9C%89%E6%84%9F/</id>
     <published>2020-03-08T07:55:38.000Z</published>
-    <updated>2020-03-08T08:13:09.271Z</updated>
+    <updated>2020-04-18T11:20:46.533Z</updated>
     
-    <content type="html"><![CDATA[<!-- build time:Sun Mar 08 2020 16:13:18 GMT+0800 (中国标准时间) --><p>遇到问题，首先要想办法解决问题，而不是想着换一套解决方案重头再来。</p><p>我的人生经历中，半途而废，浅尝辄止的项目太多了。小树苗还没结果，甚至还没长大，经常就被砍掉重栽了。</p><p>其实也不是第一次认识到自己意志品质的缺陷，但是一直也没什么进步。</p><p>生活做加法还是比做减法好，比如写博客- v -。</p><!-- rebuild by neat -->]]></content>
+    <content type="html"><![CDATA[<!-- build time:Sat Apr 18 2020 19:21:35 GMT+0800 (GMT+08:00) --><p>遇到问题，首先要想办法解决问题，而不是想着换一套解决方案重头再来。</p><p>我的人生经历中，半途而废，浅尝辄止的项目太多了。小树苗还没结果，甚至还没长大，经常就被砍掉重栽了。</p><p>其实也不是第一次认识到自己意志品质的缺陷，但是一直也没什么进步。</p><p>生活做加法还是比做减法好，比如写博客- v -。</p><!-- rebuild by neat -->]]></content>
     
     <summary type="html">
     
       
       
-        &lt;!-- build time:Sun Mar 08 2020 16:13:18 GMT+0800 (中国标准时间) --&gt;&lt;p&gt;遇到问题，首先要想办法解决问题，而不是想着换一套解决方案重头再来。&lt;/p&gt;&lt;p&gt;我的人生经历中，半途而废，浅尝辄止的项目太多了。小树苗还没结果，甚至还
+        &lt;!-- build time:Sat Apr 18 2020 19:21:35 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;遇到问题，首先要想办法解决问题，而不是想着换一套解决方案重头再来。&lt;/p&gt;&lt;p&gt;我的人生经历中，半途而废，浅尝辄止的项目太多了。小树苗还没结果，
       
     
     </summary>
